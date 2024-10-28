@@ -5,9 +5,10 @@ PowerBI link - https://app.powerbi.com/groups/me/reports/838410c3-e12c-4fa4-93b0
 
 Screenshots -
 
-<img width="539" alt="Hospital_1" src="https://github.com/user-attachments/assets/163bc78b-65da-48d6-894d-8b794ffdf783">
+<img width="532" alt="Hospital_dashboard1" src="https://github.com/user-attachments/assets/6c8d0d0a-0892-45d8-8379-ca11a9a6f983">
 
 Interactive Map
 
-<img width="529" alt="Hospital_2" src="https://github.com/user-attachments/assets/fb6e3e0a-d07b-475b-b6aa-9a74977bf260">
+<img width="530" alt="Hospital_dashboard2" src="https://github.com/user-attachments/assets/189fe9f3-6dda-476b-86e4-814cae0d8e1e">
+
 
